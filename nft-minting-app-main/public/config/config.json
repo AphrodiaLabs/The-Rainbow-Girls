@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x724606E07003f5ce9cF9aDf81d373e94EC8021A8",
+  "SCAN_LINK": "https://polygonscan.com/address/0x724606e07003f5ce9cf9adf81d373e94ec8021a8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Rainbow Girls",
+  "SYMBOL": "TRG",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-rainbow-girls-official",
+  "SHOW_BACKGROUND": true
+}
